@@ -17,7 +17,7 @@
 - ⚡ Fun fact: I listen to lo-fi music while coding 🎵
 
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="260" />
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" height="200" />
   
 - 💼 any freelance work? do reach, [email](mailto:subhanu12@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
@@ -36,7 +36,7 @@
 
 
 📈 My GitHub Stats
-
+<br>
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=SubhanuSRoy&show_icons=true&theme=gotham" alt="Subhanu's github stats" />
 
 
