@@ -8,11 +8,11 @@
 <br />
 
 
-- 🔭 I’m currently working on Tensorflow
+- 🔭 I’m currently working on AR
 - 🌱 I’m currently learning Django
-- 👯 I’m looking to collaborate on frontend gigs/projects
+- 👯 I’m looking to collaborate on website gigs/projects
 - 💬 Ask me about ReactJS, NextJS, Tailwind, Javascript and how to showcase ML models in your website
-- 📫 How to reach me: subhanu12@gmail.com
+- 📫 How to reach me: https://subhanu.netlify.app/contact
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I listen to lo-fi music while coding 🎵
 
