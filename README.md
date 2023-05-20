@@ -8,10 +8,10 @@
 <br />
 
 
-- 🔭 I’m currently working on AR
+- 🔭 I’m currently working on AI
 - 🌱 I’m currently learning Django
 - 👯 I’m looking to collaborate on website gigs/projects
-- 💬 Ask me about ReactJS, NextJS, Tailwind, Javascript and how to showcase ML models in your website
+- 💬 Ask me about TypeScript, ReactJS, NextJS, Tailwind, Javascript and how to showcase ML models in your website
 - 📫 How to reach me: https://subhanu.netlify.app/contact
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I listen to lo-fi music while coding 🎵
@@ -25,6 +25,7 @@
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
