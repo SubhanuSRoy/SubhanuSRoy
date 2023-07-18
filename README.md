@@ -1,6 +1,6 @@
 
 
-### Hola, I am Subhanu! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px">
+### Hello mate! I am Subhanu! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px">
 <a href="https://www.linkedin.com/in/subhanu-sankar-roy/">
   <img align="right" alt="Subhanu's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
@@ -9,30 +9,20 @@
 
 
 - 🔭 I’m currently working on a full fledged Hospital Management SaaS (for a client)
-- 🌱 I’m currently learning AWS, Flutter and practicing DSA in C++
-- 👯 I’m looking to collaborate on website gigs/projects
+- 🌱 I’m currently learning AWS, Flutter and Spanish ( Hola! 🙋‍♂️)
+- 👯 I’m looking to work in Software (SDE,SE,Frontend,Backend, Product Manager) roles
 - 💬 Ask me about TypeScript, ReactJS, NextJS, Tailwind, Javascript and how to build scalable production level softwares
 - 📫 How to reach me: https://subhanu.netlify.app/contact
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I listen to lo-fi music while coding 🎵
+- ⚡ Fun fact: I listen to lo-fi music while coding 🎵 
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" height="200" />
   
-- 💼 any freelance work? do reach, [email](mailto:subhanu12@gmail.com) :)
-- 💬 ask me about anything, i am happy to help;
+- 💼 Got some work to be done or need help in homework? do reach, [email](mailto:iamsubhanu@gmail.com) :)
+- 💬 Ask me about anything, I am happy to help;
 
-**Languages and Tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 
 
