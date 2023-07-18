@@ -8,10 +8,10 @@
 <br />
 
 
-- 🔭 I’m currently working on AI
-- 🌱 I’m currently learning Django
+- 🔭 I’m currently working on full fledged Hospital Management SaaS (for a client)
+- 🌱 I’m currently learning AWS, Flutter and practicing DSA in C++
 - 👯 I’m looking to collaborate on website gigs/projects
-- 💬 Ask me about TypeScript, ReactJS, NextJS, Tailwind, Javascript and how to showcase ML models in your website
+- 💬 Ask me about TypeScript, ReactJS, NextJS, Tailwind, Javascript and how to build scalable production level softwares
 - 📫 How to reach me: https://subhanu.netlify.app/contact
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I listen to lo-fi music while coding 🎵
