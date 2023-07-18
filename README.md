@@ -8,7 +8,7 @@
 <br />
 
 
-- 🔭 I’m currently working on full fledged Hospital Management SaaS (for a client)
+- 🔭 I’m currently working on a full fledged Hospital Management SaaS (for a client)
 - 🌱 I’m currently learning AWS, Flutter and practicing DSA in C++
 - 👯 I’m looking to collaborate on website gigs/projects
 - 💬 Ask me about TypeScript, ReactJS, NextJS, Tailwind, Javascript and how to build scalable production level softwares
